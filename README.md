@@ -2,9 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/useazyx">
-    <img src="https://github-readme-stats.vercel.app/api?username=useazyx&show_icons=true&theme=radical" alt="Eazyx's GitHub Stats" />
-  </a>
-  <a href="https://github.com/useazyx">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=useazyx&theme=radical" alt="Eazyx's GitHub Streak" />
   </a>
 </p>
