@@ -1,52 +1,28 @@
-# Hello, I'm useazyx 👋
+## Hi, I'm Arthur
 
-<p align="center">
-  <a href="https://github.com/useazyx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=useazyx&theme=radical" alt="Eazyx's GitHub Streak" />
-  </a>
-</p>
+Full stack developer from Taubaté, Brazil. Most of my work is on the backend: APIs in
+TypeScript with Fastify, Prisma and PostgreSQL, with validation, auth and tests. On the
+frontend I build with React, Tailwind and Vite, and I care a lot about the site feeling
+fast and looking finished.
 
-## 🚀 Crafting Digital Experiences
+I like taking something that half works and making it solid. Two of the projects below
+started as old static or PHP sites that I rebuilt as full apps, with a real API behind them.
 
-I'm Arthur Roberto Weege Pontes (useazyx), a **Full Stack Developer** driven by the challenge of building robust and efficient software. My journey in development is fueled by a passion for transforming complex problems into elegant, functional solutions. With a solid foundation and proven expertise in **Backend development**, I specialize in architecting and implementing scalable systems that power modern applications.
+### Projects
 
-Currently, I'm channeling significant energy into mastering **Frontend development**. While I excel at analyzing and optimizing existing codebases, my focus is on honing the craft of building intuitive and responsive user interfaces from the ground up, aiming for true full-stack mastery.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Zeno](https://github.com/useazyx/zeno) | Dispatch console for fire departments. A graph neural network trained on the street map of Taubaté picks the fastest route to an incident, not just the shortest. Team project. | React, Fastify, PostgreSQL, Python, PyTorch Geometric |
+| [BioAccess](https://github.com/useazyx/Biometric-Access-Control-System) | Fingerprint access control for technical schools. I built the API and the web app. My final project at ETEC, made with a team that wrote the Python and C++ sensor side. | Fastify, Prisma, PostgreSQL, React, Tailwind |
+| [Library's Potter](https://github.com/useazyx/librarys-potter) | Harry Potter bookstore and shop with 142 products, reviews, orders, support tickets and an admin dashboard. Started as a PHP college assignment, rebuilt in TypeScript. Team project. | Fastify, Prisma, PostgreSQL, React, Tailwind |
+| [Casa Fiorelli](https://github.com/useazyx/casa-fiorelli) | Italian restaurant website with menu, cart, checkout, table reservations and customer accounts. Rebuilt from an old static site. | Fastify, Prisma, PostgreSQL, React, Framer Motion, GSAP |
 
-## 🛠️ My Development Toolkit
+### Stack
 
-Here's a glimpse into the technologies I wield to bring ideas to life:
+**Backend:** Node.js, TypeScript, Fastify, Prisma, PostgreSQL, Zod, JWT, Vitest<br>
+**Frontend:** React, Vite, Tailwind CSS, HTML, CSS, Framer Motion<br>
+**Also:** Python, Git, AWS, Vue.js
 
-### Backend & Core Tools
+### Contact
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-000000?style=for-the-badge&logo=bcrypt&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Frontend & User Experience
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-## 💡 Projects & Contributions
-
-This section will soon showcase my portfolio of projects, reflecting my skills and innovative approach to development. Stay tuned for updates!
-
-## 📫 Let's Connect
-
-I'm always open to discussing new opportunities, collaborating on interesting projects, or simply connecting with fellow developers. Feel free to reach out:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurweegepontes@gmail.com)
-
----
-
-_Continuously learning, building, and innovating._
+arthurweegepontes@gmail.com
