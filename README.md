@@ -12,10 +12,15 @@ a test suite behind them.
 
 ### Now
 
-- Building a scheduling API with background jobs for reminders (Fastify, Prisma, pg-boss)
-- Learning CI with GitHub Actions and containerized development
+- Building a personal finance tracker that imports bank statements from CSV and charts spending by category
 
 ### Featured work
+
+**[Pontual](https://github.com/useazyx/pontual)** · Scheduling API for businesses that work by
+appointment. Free slots are computed in the business time zone, a PostgreSQL exclusion constraint
+blocks double booking even under concurrent requests, and reminders run as delayed jobs in a
+Postgres-backed queue. 66 automated tests, OpenAPI docs and CI on GitHub Actions.<br>
+`Fastify` `Prisma` `PostgreSQL` `pg-boss` `Zod` `Vitest`
 
 **[BioAccess](https://github.com/useazyx/Biometric-Access-Control-System)** · Fingerprint access
 control for technical schools, with multiple campuses, attendance logs and role-based access. I
@@ -52,6 +57,7 @@ menu, cart, checkout, table reservations and customer accounts, rebuilt from a s
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 Also worked with Vue.js and AWS.
 
