@@ -12,9 +12,16 @@ a test suite behind them.
 
 ### Now
 
-- Building a personal finance tracker that imports bank statements from CSV and charts spending by category
+- Building a link shortener with click analytics
 
 ### Featured work
+
+**[Saldo](https://github.com/useazyx/saldo)** · Personal finance app built around the bank statement.
+Imports Nubank and generic CSV files (Brazilian number formats, Latin-1) with a preview and
+fingerprint-based duplicate detection, categorizes transactions with rules, and shows spending by
+category, a monthly trend and budgets. Reports are aggregated in PostgreSQL; charts follow a
+color-blind-safe palette with table fallbacks.<br>
+`Fastify` `Prisma` `PostgreSQL` `React` `TanStack Query` `Recharts` `Tailwind CSS`
 
 **[Pontual](https://github.com/useazyx/pontual)** · Scheduling API for businesses that work by
 appointment. Free slots are computed in the business time zone, a PostgreSQL exclusion constraint
