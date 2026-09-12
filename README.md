@@ -10,11 +10,13 @@ Several of my projects started as something that only half worked, like an old s
 PHP college assignment, and ended up as complete applications with a real API, a database and
 a test suite behind them.
 
-### Now
-
-- Building a link shortener with click analytics
-
 ### Featured work
+
+**[Atalho](https://github.com/useazyx/atalho)** · URL shortener with click analytics. Custom aliases or
+random slugs, QR codes, and stats per link by day, referrer, device, browser and language. Unique
+visitors come from a salted daily hash, so no IP address is stored; link previews are filtered out as
+bots, and days are aggregated in São Paulo time directly in PostgreSQL. 60 automated tests.<br>
+`Fastify` `Prisma` `PostgreSQL` `React` `Recharts` `Tailwind CSS`
 
 **[Saldo](https://github.com/useazyx/saldo)** · Personal finance app built around the bank statement.
 Imports Nubank and generic CSV files (Brazilian number formats, Latin-1) with a preview and
