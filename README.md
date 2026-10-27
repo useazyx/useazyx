@@ -12,25 +12,6 @@ a test suite behind them.
 
 ### Featured work
 
-**[Atalho](https://github.com/useazyx/atalho)** · URL shortener with click analytics. Custom aliases or
-random slugs, QR codes, and stats per link by day, referrer, device, browser and language. Unique
-visitors come from a salted daily hash, so no IP address is stored; link previews are filtered out as
-bots, and days are aggregated in São Paulo time directly in PostgreSQL. 60 automated tests.<br>
-`Fastify` `Prisma` `PostgreSQL` `React` `Recharts` `Tailwind CSS`
-
-**[Saldo](https://github.com/useazyx/saldo)** · Personal finance app built around the bank statement.
-Imports Nubank and generic CSV files (Brazilian number formats, Latin-1) with a preview and
-fingerprint-based duplicate detection, categorizes transactions with rules, and shows spending by
-category, a monthly trend and budgets. Reports are aggregated in PostgreSQL; charts follow a
-color-blind-safe palette with table fallbacks.<br>
-`Fastify` `Prisma` `PostgreSQL` `React` `TanStack Query` `Recharts` `Tailwind CSS`
-
-**[Pontual](https://github.com/useazyx/pontual)** · Scheduling API for businesses that work by
-appointment. Free slots are computed in the business time zone, a PostgreSQL exclusion constraint
-blocks double booking even under concurrent requests, and reminders run as delayed jobs in a
-Postgres-backed queue. 66 automated tests, OpenAPI docs and CI on GitHub Actions.<br>
-`Fastify` `Prisma` `PostgreSQL` `pg-boss` `Zod` `Vitest`
-
 **[BioAccess](https://github.com/useazyx/Biometric-Access-Control-System)** · Fingerprint access
 control for technical schools, with multiple campuses, attendance logs and role-based access. I
 built the REST API and the web app; teammates wrote the Python and C++ sensor integration. Final
